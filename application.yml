@@ -9,4 +9,4 @@ eureka:
 
 spring:
   application:
-    name: ConfigServer
+    name: ConfigServer-default
